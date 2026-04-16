@@ -18,3 +18,34 @@
 - HTTPs
 - Tree shaking - Remove unused code
 - Different dev and prod bundles
+
+
+<!-- Food ordering app -->
+// building swiggy like app
+// Header
+  // - Logo
+  // - Nav items
+// Body
+  // - Search
+  // - RestaurantContainer
+     // - RestaurantCard
+       //- Image
+       //- Name
+       //- Cusines
+       //- Rating
+       //- delivery time
+// Footer
+  // - copyright
+  // - links
+  // - address
+  // - contact
+
+
+Two types of Export/Import
+- Default Export/Import
+export default Component;
+import Component from "path";
+
+- Named const Component;
+export const Component;
+import {Component} from "path";
