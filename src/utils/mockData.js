@@ -33,7 +33,7 @@ const resList = [
       cloudinaryImageId:
         "RX_THUMBNAIL/IMAGES/VENDOR/2025/10/22/1b9544a0-d091-4128-b7da-a650f9051ac2_722753.JPG",
       cuisines: ["Chinese", "Asian", "fastfood", "Beverages", "Snacks"],
-      avgRating: 4.0,
+      avgRating: 3.5,
       costForTwo: "₹300 for two",
       sla: {
         deliveryTime: 20,
